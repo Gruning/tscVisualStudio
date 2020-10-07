@@ -1,0 +1,2 @@
+# tscVisualStudio
+basic Typescript project
