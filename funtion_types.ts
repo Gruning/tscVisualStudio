@@ -7,6 +7,6 @@ function cal(val1:number,val2:number): number {
     return total
 }
 
-cal(2,3)
-let universal = cal
+//cal(2,3)
+let universal = cal(2,3)
 console.log(universal)
